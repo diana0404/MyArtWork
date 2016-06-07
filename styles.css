@@ -1,0 +1,50 @@
+
+
+
+.heading 
+{
+color: blue;
+font-size: 40px
+}
+
+.description 
+{
+color: darkgrey;
+font-size: 20px;
+border-left: 2px solid;
+padding: 10px;
+width: 320px;
+background-color: pink
+}
+
+.image
+{
+	width: 280px;
+	height: 280px;
+	position: relative;
+	left:20px
+}
+
+.chart1
+{
+	width:200px;
+	height:200px
+}
+.circ1
+{
+
+}
+.ellipse1
+{
+	fill:pink;
+}
+
+.JT {
+	font-size: 40px;
+	color: purple;
+	
+}
+
+
+
+
